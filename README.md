@@ -2,6 +2,7 @@
 
 This project showcases a comprehensive Global Sales Dashboard built using Microsoft Power BI. It offers deep insights into sales performance, profit, product categories, shipping costs, and customer segments using interactive visualizations.
 
+
 ---
 
 ##  Project Objective
@@ -27,6 +28,7 @@ Used card visuals to present key performance indicators:
 - Average Sales: 247
 - Total Shipping Cost: 1 million
 - Shipping Cost Last Week: 14,000
+  
 ![Image](https://github.com/user-attachments/assets/2a915a17-a9ff-4a0e-99bf-36549c42b6fe)
 
 ---
@@ -41,6 +43,7 @@ Pie charts showing sales and shipping costs per sub-category:
   - Highest: Phones & Copiers (~20K)
 - Shipping Cost Last Week:
   - Highest: Copiers, Phones, Bookcases, Chairs (~2K each)
+    
 ![Image](https://github.com/user-attachments/assets/75edab77-3a19-451d-8792-37759abb21c6)
 ---
 
@@ -54,18 +57,21 @@ Bar chart comparing categories (Technology, Furniture, Office Supplies):
   - Highest: Technology (50K)
 - Shipping Cost Last Week:
   - Highest: Technology (5.4K)
+    
 ![Image](https://github.com/user-attachments/assets/78a9014b-8456-48d2-a838-d3a9cd46b922)
 ---
 
 ### 4. Order Priority – Pie Chart
 Visualizes the distribution of order priorities:
 - Highest Priority Level: Medium (7M in total sales)
+  
 ![Image](https://github.com/user-attachments/assets/a8fb6a13-44fc-4592-8d14-b4c1923570b0)
 ---
 
 ### 3. Segment Analysis – Funnel Chart
 Shows sales by customer segment:
 - Highest Segment: Consumer (7M in total sales)
+  
 ![Image](https://github.com/user-attachments/assets/7d8b1197-fe79-448a-b14d-a6f98be78175)
 
 ---
@@ -74,6 +80,7 @@ Shows sales by customer segment:
 Displays both Sum of Sales and Sum of Profit by month:
 - Highest Sales Month: December (1.5M)
 - Highest Profit Month: November (176,139)
+  
 ![Image](https://github.com/user-attachments/assets/3aa3f2ff-7513-46e4-a018-4a4ecb7d03b7)
 
 ---
@@ -86,6 +93,7 @@ This dashboard gives a complete overview of business performance and helps ident
 - Customer segment contributions
 - Operational costs (shipping)
 - Priority-based order impact
+  
 ![Image](https://github.com/user-attachments/assets/cd6aef54-e797-46a8-9438-ae88d4388765)
 ---
 
